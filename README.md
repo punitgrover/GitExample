@@ -1,4 +1,4 @@
-# redux_middleware_example
+# git_example
 
 ## Run APP
 
